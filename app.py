@@ -19,7 +19,7 @@ nltk.download('omw-1.4')
 st.set_page_config(page_title="Jayant Verma", page_icon=Image.open('statics/Me.jpg'),initial_sidebar_state="expanded")
 
 # Add profile image
-profile_image = Image.open('statics/Me.jpg')
+profile_image = Image.open('statics/Me.jpeg')
 st.sidebar.image(profile_image, use_column_width=True)
 
 # Add contact information
