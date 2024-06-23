@@ -16,7 +16,7 @@ nltk.download('punkt')
 nltk.download('omw-1.4')
 
 # Page title
-st.set_page_config(page_title="Chintamani Chourase", page_icon=Image.open('statics/Me.jpg'),initial_sidebar_state="expanded")
+st.set_page_config(page_title="Chintamani Chourase", page_icon=Image.open('statics/Me.jpeg'),initial_sidebar_state="expanded")
 
 # Add profile image
 profile_image = Image.open('statics/Me.jpeg')
