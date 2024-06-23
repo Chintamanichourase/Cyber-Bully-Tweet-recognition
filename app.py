@@ -44,33 +44,6 @@ st.sidebar.write("- Data Science : Data Collection, Data Wrangling, Data Visuali
 st.sidebar.write("- AWS Services : Bedrock, Textract, Cognito")
 st.sidebar.write("- Version Control & Deployment : Git & Github")
 
-st.sidebar.title("Experience")
-st.sidebar.header("- Data Scientist - Softsensor.ai [June, 2023 - Present]")
-st.sidebar.write("Worked on Softsensor X, an AI-based application that allows users to perform QA on their data source, compare and contrast QA between multiple docs, image generation, and offers data visualization capabilities.")
-st.sidebar.subheader("Key responsibilities and achievements include:")
-st.sidebar.write("- Developed and managed the entire backend of the web app using FastAPI. - Created pipelines for data ingestion, RAG (Retrieval Augmented Generation), RAG Fusion, Hybrid Search, Metadata filtering, Data Visualization, Image Generation, Agent for full automation, Query Transformation, Compare and contrast, etc. - Fine-tuned models such as GPT-3.5, Llama-2 for QA use case and Bart-base for query transformation")
-st.sidebar.write("- Created pipelines for data ingestion, RAG (Retrieval Augmented Generation), RAG Fusion, Hybrid Search, Metadata filtering, Data Visualization, Image Generation, Agent for full automation, Query Transformation, Compare and contrast, etc.")
-st.sidebar.write("- Fine-tuned models such as GPT-3.5, Llama-2 for QA use case and Bart-base for query transformation")
-
-st.sidebar.title("Open Source Contributions")
-st.sidebar.subheader("Llama-index")
-st.sidebar.write("An open-source framework for developing applications that use language models. It's a data framework that can connect custom data sources to large language models (LLMs).")
-
-#Projects
-st.sidebar.title("Projects")
-st.sidebar.write("Here are some of my projects:")
-st.sidebar.subheader("- Softsensor X")
-st.sidebar.write("Developed and managed the entire backend of the web app using FastAPI.")
-st.sidebar.write("Created pipelines for data ingestion, RAG (Retrieval Augmented Generation), RAG Fusion, Hybrid Search, Metadata filtering, Data Visualization, Image Generation, Agent for full automation, Query Transformation, Compare and contrast, etc.")
-st.sidebar.write("Fine-tuned models such as GPT-3.5, Llama-2 for QA use case and Bart-base for query transformation.")
-st.sidebar.subheader("- [Stock Analysis Project](https://jayantverma-stock-analysis-app.streamlit.app/)")
-st.sidebar.write("Under this analysis project, the app does fundamental and technical analysis on the stock provided as input and provides various helpful insights which help investors to take better decisions")
-st.sidebar.subheader("- [Used Phone Price Prediction](https://usedphonepriceprediction.azurewebsites.net/)")
-st.sidebar.write("Using unsupervised learning techniques to predict prices of used phones using their various features such as days used, camera, battery,etc.")
-st.sidebar.subheader("- [EDA & Feature Engineering - Bike Sharing Data](https://lnkd.in/dzjAsajs)")
-st.sidebar.write("Under this data preprocessing project, I have performed time series analysis, exploratory data analysis and various feature engineering techniques such as transformations, handling outliers, etc to convert raw data into model training ready data.")
-st.sidebar.subheader("- [EDA & Feature Engineering - Wine Quality Data](https://lnkd.in/dKRMT7Ym)")
-st.sidebar.write("Under this data preprocessing project, I have performed exploratory data analysis and various feature engineering techniques such as transformations, handling outliers, standardization to convert raw data into model training ready data.")
 
 
 st.write('''
