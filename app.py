@@ -16,22 +16,22 @@ nltk.download('punkt')
 nltk.download('omw-1.4')
 
 # Page title
-st.set_page_config(page_title="Jayant Verma", page_icon=Image.open('statics/Me.jpg'),initial_sidebar_state="expanded")
+st.set_page_config(page_title="Chintamani Chourase", page_icon=Image.open('statics/Me.jpg'),initial_sidebar_state="expanded")
 
 # Add profile image
 profile_image = Image.open('statics/Me.jpeg')
 st.sidebar.image(profile_image, use_column_width=True)
 
 # Add contact information
-st.sidebar.title("Jayant Verma")
+st.sidebar.title("Chintamani Chourase")
 st.sidebar.write("Data Scientist & AI Engineer")
 st.sidebar.write("You can reach me at:")
-st.sidebar.subheader("jayantverma9380@gmail.com")
-st.sidebar.subheader("[LinkedIn](https://www.linkedin.com/in/jayantverma28)")
+st.sidebar.subheader("chintamanichourase@gmail.com")
+st.sidebar.subheader("[LinkedIn](https://www.linkedin.com/in/chintamani-chourase-43964122b/)")
 st.sidebar.subheader("[X](https://x.com/__kanhaiya__)")
-st.sidebar.subheader("[Instagram](http://instagram.com/_._.kanhaiya)")
-st.sidebar.subheader("[GitHub](https://github.com/jayantverma2809)")
-st.sidebar.subheader("[Kaggle](https://www.kaggle.com/jayantverma9380)")
+st.sidebar.subheader("[Instagram](http://instagram.com/disposable_account02)")
+st.sidebar.subheader("[GitHub](https://github.com/Chintamanichourase)")
+st.sidebar.subheader("[Kaggle](https://www.kaggle.com/chintamanichourase)")
 
 #Skills
 st.sidebar.header("Skills")
