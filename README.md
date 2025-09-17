@@ -45,4 +45,3 @@ non-utf characters, Numbers, punctuations, stopwords
 
 * Deployment Platform : Streamlit
 
-* Kaggle : https://lnkd.in/dTe7PCqx
